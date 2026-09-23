@@ -15,7 +15,7 @@ AUTO_SCHEMA_MIGRATION = "false"
 [[d1_databases]]
 binding = "DB"
 database_name = "monolith-db"
-database_id = "260856eb-760d-4a36-aad7-31f8aa1291e9"
+database_id = "52076f13-8ba4-4654-8eb4-dd6dd265f8ad"
 migrations_dir = "src/migrations"
 
 # R2 存储桶绑定
